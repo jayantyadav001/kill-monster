@@ -1,5 +1,4 @@
 # KillTheMonster_34
 
 Output Link
-
-https://agsuvidha.github.io/KillTheMonster_34/
+https://jayantyadav001.github.io/kill-monster/
